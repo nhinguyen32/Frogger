@@ -1,6 +1,7 @@
 {
   "resources": [
     {"id":{"name":"spr_car2","path":"sprites/spr_car2/spr_car2.yy",},"order":8,},
+    {"id":{"name":"obj_spawner","path":"objects/obj_spawner/obj_spawner.yy",},"order":10,},
     {"id":{"name":"obj_road","path":"objects/obj_road/obj_road.yy",},"order":1,},
     {"id":{"name":"spr_road","path":"sprites/spr_road/spr_road.yy",},"order":7,},
     {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":15,},
@@ -71,7 +72,7 @@
   ],
   "IncludedFiles": [],
   "MetaData": {
-    "IDEVersion": "2.3.4.583",
+    "IDEVersion": "2.3.5.589",
   },
   "resourceVersion": "1.4",
   "name": "Frogger",
