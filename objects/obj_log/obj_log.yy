@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_car",
-    "path": "sprites/spr_car/spr_car.yy",
+    "name": "spr_log",
+    "path": "sprites/spr_log/spr_log.yy",
   },
   "solid": false,
   "visible": true,
@@ -31,7 +31,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_vehicle1",
+  "name": "obj_log",
   "tags": [],
   "resourceType": "GMObject",
 }
