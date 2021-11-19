@@ -15,6 +15,7 @@
   "layers": [
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_frog","path":"objects/obj_frog/obj_frog.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":672.0,"y":736.0,"resourceVersion":"1.0","name":"inst_32B931B2","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"obj_speaker","path":"objects/obj_speaker/obj_speaker.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.0325000063,"scaleY":0.0325000063,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1312.0,"y":64.0,"resourceVersion":"1.0","name":"inst_6BFC2936","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Objects","tags":[],"resourceType":"GMRInstanceLayer",},
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"obj_road","path":"objects/obj_road/obj_road.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":21.5,"scaleY":5.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":384.0,"resourceVersion":"1.0","name":"inst_53D96D18","tags":[],"resourceType":"GMRInstance",},
@@ -61,6 +62,7 @@
     {"name":"inst_2854CA8A","path":"rooms/Gameplay/Gameplay.yy",},
     {"name":"inst_656DF6B3","path":"rooms/Gameplay/Gameplay.yy",},
     {"name":"inst_32B931B2","path":"rooms/Gameplay/Gameplay.yy",},
+    {"name":"inst_6BFC2936","path":"rooms/Gameplay/Gameplay.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
