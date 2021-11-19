@@ -1,6 +1,8 @@
 {
   "resources": [
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"Gameplay","path":"rooms/Gameplay/Gameplay.yy",},"order":1,},
+    {"id":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},"order":2,},
+    {"id":{"name":"PlayerReady","path":"rooms/PlayerReady/PlayerReady.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Main","path":"options/main/options_main.yy",},
@@ -15,7 +17,9 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"PlayerReady","path":"rooms/PlayerReady/PlayerReady.yy",},},
+    {"roomId":{"name":"Gameplay","path":"rooms/Gameplay/Gameplay.yy",},},
+    {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
