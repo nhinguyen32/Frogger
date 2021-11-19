@@ -24,8 +24,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "PlayerReady",
+    "path": "folders/Objects/PlayerReady.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_frogger",
