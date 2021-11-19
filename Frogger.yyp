@@ -17,7 +17,6 @@
     {"id":{"name":"spr_car","path":"sprites/spr_car/spr_car.yy",},"order":6,},
     {"id":{"name":"sound_click","path":"sounds/sound_click/sound_click.yy",},"order":1,},
     {"id":{"name":"spr_goal","path":"sprites/spr_goal/spr_goal.yy",},"order":4,},
-    {"id":{"name":"Object13","path":"objects/Object13/Object13.yy",},"order":10,},
     {"id":{"name":"obj_ground","path":"objects/obj_ground/obj_ground.yy",},"order":0,},
     {"id":{"name":"obj_goal","path":"objects/obj_goal/obj_goal.yy",},"order":8,},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},"order":2,},
