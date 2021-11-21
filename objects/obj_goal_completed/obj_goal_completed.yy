@@ -3,7 +3,7 @@
     "name": "spr_goal_completed",
     "path": "sprites/spr_goal_completed/spr_goal_completed.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
