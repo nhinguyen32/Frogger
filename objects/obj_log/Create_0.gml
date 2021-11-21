@@ -1,1 +1,1 @@
-speed = global.speed;
+speed = obj_gameManager.gameSpeed;
