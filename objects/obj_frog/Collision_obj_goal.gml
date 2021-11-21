@@ -1,4 +1,3 @@
-instance_create_layer(x, y, "Objects", obj_goal_completed);
-x = startPosX;
-y = startPosY;
-global.goalsCount -= 1;
+instance_create_layer(xstart, ystart, "Objects", obj_frog);
+instance_destroy(id);
+obj_gameManager.goalsCount -= 1;
