@@ -1,7 +1,8 @@
 gameSpeed = 5;
 global.goalsCount = 5;
-lives_remain = 5;
-isWon = true;
+time_to_complete = 1500; //15s
+time_track = time_to_complete;
+lives_remain = 7;
 
 vehicle_lines = [640, 544, 448];
 log_lines = [149, 204, 260];

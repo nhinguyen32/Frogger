@@ -1,4 +1,5 @@
 if (!onLog) {
+	audio_play_sound(sound_collide, 190, false);
 	show_debug_message("collided with water");
 	instance_create_layer(xstart, ystart, "Objects", obj_frog);
 	instance_destroy(id);
