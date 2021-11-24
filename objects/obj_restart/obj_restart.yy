@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "spr_log",
-    "path": "sprites/spr_log/spr_log.yy",
+    "name": "sprt_restart",
+    "path": "sprites/sprt_restart/sprt_restart.yy",
   },
   "solid": false,
   "visible": true,
@@ -20,18 +20,15 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [
-    {"isDnD":false,"eventNum":0,"eventType":0,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-    {"isDnD":false,"eventNum":0,"eventType":3,"collisionObjectId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMEvent",},
-  ],
+  "eventList": [],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "GamePlay",
-    "path": "folders/Objects/GamePlay.yy",
+    "name": "GameOver",
+    "path": "folders/Objects/GameOver.yy",
   },
   "resourceVersion": "1.0",
-  "name": "obj_log",
+  "name": "obj_restart",
   "tags": [],
   "resourceType": "GMObject",
 }

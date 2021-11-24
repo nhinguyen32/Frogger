@@ -34,8 +34,8 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "Objects",
-    "path": "folders/Objects.yy",
+    "name": "GamePlay",
+    "path": "folders/Objects/GamePlay.yy",
   },
   "resourceVersion": "1.0",
   "name": "obj_frog",

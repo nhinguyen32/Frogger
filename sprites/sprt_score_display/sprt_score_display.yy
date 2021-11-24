@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"74945c77-075d-4830-839d-77c85bf70ca7","path":"sprites/spr_goal/spr_goal.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"74945c77-075d-4830-839d-77c85bf70ca7","path":"sprites/spr_goal/spr_goal.yy",},"LayerId":{"name":"5e1c9cb5-24a7-4e7c-a765-218e2a2ea1fc","path":"sprites/spr_goal/spr_goal.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"spr_goal","path":"sprites/spr_goal/spr_goal.yy",},"resourceVersion":"1.0","name":"74945c77-075d-4830-839d-77c85bf70ca7","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"a9bcc03a-ca9d-42e3-9125-44453b65ba6e","path":"sprites/sprt_score_display/sprt_score_display.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"a9bcc03a-ca9d-42e3-9125-44453b65ba6e","path":"sprites/sprt_score_display/sprt_score_display.yy",},"LayerId":{"name":"d5c7dfb2-2f5c-419c-a5b2-d8d71a82ca26","path":"sprites/sprt_score_display/sprt_score_display.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sprt_score_display","path":"sprites/sprt_score_display/sprt_score_display.yy",},"resourceVersion":"1.0","name":"a9bcc03a-ca9d-42e3-9125-44453b65ba6e","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"spr_goal","path":"sprites/spr_goal/spr_goal.yy",},
+    "spriteId": {"name":"sprt_score_display","path":"sprites/sprt_score_display/sprt_score_display.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"f57cdf49-1c3f-43ae-81d0-ec8cca62bf01","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"74945c77-075d-4830-839d-77c85bf70ca7","path":"sprites/spr_goal/spr_goal.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"789c96e8-b794-4b05-9a35-db7982d1177b","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"a9bcc03a-ca9d-42e3-9125-44453b65ba6e","path":"sprites/sprt_score_display/sprt_score_display.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -58,22 +58,22 @@
     "yorigin": 0,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"spr_goal","path":"sprites/spr_goal/spr_goal.yy",},
+    "parent": {"name":"sprt_score_display","path":"sprites/sprt_score_display/sprt_score_display.yy",},
     "resourceVersion": "1.3",
-    "name": "spr_goal",
+    "name": "sprt_score_display",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"5e1c9cb5-24a7-4e7c-a765-218e2a2ea1fc","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d5c7dfb2-2f5c-419c-a5b2-d8d71a82ca26","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
-    "name": "GamePlay",
-    "path": "folders/Sprites/GamePlay.yy",
+    "name": "GameOver",
+    "path": "folders/Sprites/GameOver.yy",
   },
   "resourceVersion": "1.0",
-  "name": "spr_goal",
+  "name": "sprt_score_display",
   "tags": [],
   "resourceType": "GMSprite",
 }

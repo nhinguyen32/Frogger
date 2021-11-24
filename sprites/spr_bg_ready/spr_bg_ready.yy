@@ -69,8 +69,8 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "Sprites",
-    "path": "folders/Sprites.yy",
+    "name": "PlayerReady",
+    "path": "folders/Sprites/PlayerReady.yy",
   },
   "resourceVersion": "1.0",
   "name": "spr_bg_ready",
