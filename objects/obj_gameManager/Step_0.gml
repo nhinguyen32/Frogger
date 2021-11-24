@@ -12,10 +12,10 @@ if (lives_remain == 0) {
 		room_goto_next();
 		}
 }
-if (time_track > 0) {
-	time_track --;
+if (global.time_track > 0) {
+	global.time_track --;
 } else {
 	lives_remain--;
-	time_track = time_to_complete;
+	global.time_track = time_to_complete;
 }
-time_show = time_track/100;
+time_show = global.time_track/100;
