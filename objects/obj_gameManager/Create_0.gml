@@ -1,6 +1,6 @@
-gameSpeed = 5;
+gameSpeed = 4;
 global.goalsCount = 5;
-time_to_complete = 1500; //15s
+time_to_complete = 2000; //15s
 time_track = time_to_complete;
 lives_remain = 7;
 
