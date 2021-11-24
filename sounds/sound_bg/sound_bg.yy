@@ -11,7 +11,7 @@
     "path": "audiogroups/audiogroup_default",
   },
   "soundFile": "sound_bg.mp3",
-  "duration": 150.48,
+  "duration": 154.666672,
   "parent": {
     "name": "Sounds",
     "path": "folders/Sounds.yy",

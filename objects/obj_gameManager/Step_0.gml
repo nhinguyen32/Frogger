@@ -1,14 +1,11 @@
-if (goalsCount == 0) {
-	if (room_exists(room_next(room))) {
-	audio_stop_sound(sound_bg);
-	room_goto_next();
+if (global.goalsCount == 0) {
+		if (room_exists(room_next(room))) {
+		room_goto_next();
+		}
 	}
-	// game_restart();
-}
 if (lives_remain == 0) {
-	if (room_exists(room_next(room))) {
-	audio_stop_sound(sound_bg);
-	room_goto_next();
-	}
-	//game_restart();
+		isWon = false;
+		if (room_exists(room_next(room))) {
+		room_goto_next();
+		}
 }
